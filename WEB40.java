@@ -2,9 +2,9 @@ package com.sanayq.androidmysql1.fonari;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.kosalgeek.androidmysql1.ProductRetrofit;
-import com.kosalgeek.androidmysql1.ProductRetrofitFULL;
-import com.kosalgeek.androidmysql1.petli.LINK3;
+import com.sanayq.androidmysql1.ProductRetrofit;
+import com.sanayq.androidmysql1.ProductRetrofitFULL;
+import com.sanayq.androidmysql1.petli.LINK3;
 import com.squareup.okhttp.OkHttpClient;
 
 import java.io.BufferedReader;
