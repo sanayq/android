@@ -15,14 +15,14 @@ import android.view.View;
 import android.widget.EditText;
 
 
-import com.kosalgeek.androidmysql1.aksesuary.Frag;
-import com.kosalgeek.androidmysql1.fonari.Frag40;
-import com.kosalgeek.androidmysql1.ledovoe_snaryazhenie.Frag1;
-import com.kosalgeek.androidmysql1.petli.Frag3;
-import com.kosalgeek.androidmysql1.promalp.Frag4;
-import com.kosalgeek.androidmysql1.skalnoe.Frag5;
-import com.kosalgeek.androidmysql1.strahovochnoe.FragKat;
-import com.kosalgeek.androidmysql1.toplivnoe_oborydovanie.Frag30;
+import com.sanayq.androidmysql1.aksesuary.Frag;
+import com.sanayq.androidmysql1.fonari.Frag40;
+import com.sanayq.androidmysql1.ledovoe_snaryazhenie.Frag1;
+import com.sanayq.androidmysql1.petli.Frag3;
+import com.sanayq.androidmysql1.promalp.Frag4;
+import com.sanayq.androidmysql1.skalnoe.Frag5;
+import com.sanayq.androidmysql1.strahovochnoe.FragKat;
+import com.sanayq.androidmysql1.toplivnoe_oborydovanie.Frag30;
 //import com.kosalgeek.androidmysql1.zzz.Frag30;
 
 import java.util.ArrayList;
