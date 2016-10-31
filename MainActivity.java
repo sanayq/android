@@ -1,4 +1,4 @@
-package com.kosalgeek.androidmysql1;
+package com.sanayq.androidmysql1;
 
 import android.content.Intent;
 import android.content.res.Configuration;
@@ -118,7 +118,7 @@ getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
     }
-        //task.execute("http://k95260i7.bget.ru/product.php");
+        
 
 
 
