@@ -1,4 +1,4 @@
-package com.kosalgeek.androidmysql1.fonari;
+package com.sanayq.androidmysql1.fonari;
 
 import android.content.Intent;
 import android.os.Bundle;
