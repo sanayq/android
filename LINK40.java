@@ -1,7 +1,7 @@
-package com.kosalgeek.androidmysql1.fonari;
+package com.sanayq.androidmysql1.fonari;
 
-import com.kosalgeek.androidmysql1.ProductRetrofit;
-import com.kosalgeek.androidmysql1.ProductRetrofitFULL;
+import com.sanayq.androidmysql1.ProductRetrofit;
+import com.sanayq.androidmysql1.ProductRetrofitFULL;
 
 import java.util.ArrayList;
 import java.util.List;
