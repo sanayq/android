@@ -11,9 +11,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.kosalgeek.androidmysql1.ProductRetrofitFULL;
-import com.kosalgeek.androidmysql1.R;
-import com.kosalgeek.androidmysql1.petli.WEB3;
+import com.sanayq.androidmysql1.ProductRetrofitFULL;
+import com.sanayq.androidmysql1.R;
+import com.sanayq.androidmysql1.petli.WEB3;
 
 import java.util.List;
 
