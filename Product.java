@@ -1,4 +1,4 @@
-package com.kosalgeek.androidmysql1;
+package com.sanayq.androidmysql1;
 
 
 import com.google.gson.annotations.SerializedName;
