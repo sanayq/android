@@ -13,11 +13,11 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.kosalgeek.androidmysql1.MyApater;
-import com.kosalgeek.androidmysql1.ProductRetrofit;
-import com.kosalgeek.androidmysql1.R;
-import com.kosalgeek.androidmysql1.petli.Info3;
-import com.kosalgeek.androidmysql1.petli.WEB3;
+import com.sanayq.androidmysql1.MyApater;
+import com.sanayq.androidmysql1.ProductRetrofit;
+import com.sanayq.androidmysql1.R;
+import com.sanayq.androidmysql1.petli.Info3;
+import com.sanayq.androidmysql1.petli.WEB3;
 
 import java.util.ArrayList;
 
@@ -25,9 +25,9 @@ import retrofit.Callback;
 import retrofit.RetrofitError;
 import retrofit.client.Response;
 
-import static com.kosalgeek.androidmysql1.R.layout.frag3;
+import static com.sanayq.androidmysql1.R.layout.frag3;
 
-//import com.kosalgeek.androidmysql1.kovriki.Frag2;
+
 
 /**
  * Created by Admin on 02.03.2016.
