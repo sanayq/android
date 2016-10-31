@@ -1,4 +1,4 @@
-package com.kosalgeek.androidmysql1;
+package com.sanayq.androidmysql1;
 
 import android.content.Intent;
 import android.net.ConnectivityManager;
